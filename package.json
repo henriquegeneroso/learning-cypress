@@ -1,0 +1,22 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "Projeto para aprendizado dos conceitos de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquegeneroso/learning-cypress.git"
+  },
+  "author": "Henrique Generoso da Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquegeneroso/learning-cypress/issues"
+  },
+  "homepage": "https://github.com/henriquegeneroso/learning-cypress#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
